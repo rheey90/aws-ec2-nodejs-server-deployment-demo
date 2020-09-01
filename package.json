@@ -24,7 +24,6 @@
   },
   "homepage": "https://github.com/rheey90/aws-ec2-nodejs-server-deployment-demo#readme",
   "dependencies": {
-    "cors": "^2.8.5",
     "express": "^4.17.1"
   }
 }
